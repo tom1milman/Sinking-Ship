@@ -9,7 +9,8 @@
 
 The entire project was created in under 48 hours as a submission for the **Global game Jam 2020**.
 
-All assets(Scripts, Images, Sounds, etc) in the game were created by me during te event period.
+All assets(Scripts, Images, Sounds, etc) in the game were created by me during te event period. The game was created using Unity Engine and C#.
+
 The game isn't perfect, and there are some known bugs that I didn't have time to fix. But this is the point of a Jam - to create something quick and fun!
 
 #### Screenshots
